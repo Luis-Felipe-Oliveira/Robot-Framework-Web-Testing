@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 5.0.1 (Python 3.10.5 on win32)" generated="20220710 14:31:01.979" rpa="false" schemaversion="3">
+<suite id="s1" name="Teste Novo2" source="C:\CursoUdemy\RobotFramework\WebTesting\teste_novo2.robot">
+<test id="s1-t1" name="Imprimir no Console" line="17">
+<kw name="Console">
+<kw name="Log To Console" library="BuiltIn">
+<arg>message = ${MESES.mes} Dias ${MESES.dia}, ${MESES1.mes} Dias ${MESES1.dia}, ${MESES2.mes} Dias ${MESES2.dia}, ${MESES3.mes} Dias ${MESES3.dia}, ${MESES4.mes} Dias ${MESES4.dia}, ${MESES5.mes} Dias ${MESES5.dia}, ${MESES6.mes} Dias ${MESES6.dia}, ${MESES7.mes} Dias ${MESES7.dia}, ${MESES8.mes} Dias ${MESES8.dia}, ${MESES9.mes} Dias ${MESES9.dia}, ${MESES10.mes} Dias ${MESES10.dia}, ${MESES11.mes} Dias ${MESES11.dia}</arg>
+<doc>Logs the given message to the console.</doc>
+<status status="PASS" starttime="20220710 14:31:02.004" endtime="20220710 14:31:02.012"/>
+</kw>
+<status status="PASS" starttime="20220710 14:31:02.004" endtime="20220710 14:31:02.012"/>
+</kw>
+<status status="PASS" starttime="20220710 14:31:02.004" endtime="20220710 14:31:02.013"/>
+</test>
+<status status="PASS" starttime="20220710 14:31:01.981" endtime="20220710 14:31:02.013"/>
+</suite>
+<statistics>
+<total>
+<stat pass="1" fail="0" skip="0">All Tests</stat>
+</total>
+<tag>
+</tag>
+<suite>
+<stat pass="1" fail="0" skip="0" id="s1" name="Teste Novo2">Teste Novo2</stat>
+</suite>
+</statistics>
+<errors>
+</errors>
+</robot>
